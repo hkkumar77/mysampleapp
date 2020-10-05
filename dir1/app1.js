@@ -1,0 +1,1 @@
+console.log('log message from app1.js')
